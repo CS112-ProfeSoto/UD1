@@ -6,6 +6,7 @@ The purpose of this unit deliverable is to help you start planning your final pr
 
 ## Project Requirements
 - Create a full UML diagram, following proper syntax, for your final project idea
+    - Include the UML diagram in the root of your project folder.
 - Build only ONE of your classes, including all required methods for model classes (3 constructors, setters, getters, equal, and toString)
 - A full tester class for your class
 - You must thoughtfully use the following in the planning of your project:
